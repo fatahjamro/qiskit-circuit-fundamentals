@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: Fatah
+    given-names: Abdul
+    orcid: "https://orcid.org/0009-0007-5254-8595"
+title: "Qiskit Circuit Fundamentals — Qiskit 2.x Implementation"
+version: 1.0.0
+date-released: 2026-05-10
+url: "https://github.com/fatahjamro/qiskit-circuit-fundamentals"
+license: MIT
