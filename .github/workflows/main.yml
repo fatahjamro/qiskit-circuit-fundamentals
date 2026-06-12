@@ -24,6 +24,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install jupyter nbconvert ipykernel
         pip install qiskit qiskit-aer numpy matplotlib pylatexenc
+        python -m ipykernel install --user --name quantum-notebooks
 
     - name: Run Jupyter notebook
       run: |
